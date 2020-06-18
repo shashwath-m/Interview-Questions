@@ -220,6 +220,10 @@ Now, use Docker compose to bring up the above Docker images as containers. Datab
 * What are Kubernetes Components ?
 * What is etcd ?
 * What is master & minion ?
+* What is difference between ReplicaSet and Replication Controller?
+* What is Static Pod and Purpose?
+* What is DaemonSet and where it is used?
+* What is difference between Deployments and Stateful Sets?
 * How to make quorum of cluster?
 * What is Replication controller & what it does ?
 * What is ingress ?
